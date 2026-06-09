@@ -5,22 +5,12 @@ A grocery price comparison web platform that fetches and compares live product p
 Built as a final year Diploma project (2024).
 
 ---
+### Screenshots
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshot1.png)
-
-### Shop by Category
-![Categories](screenshot2.png)
-
-### Price Comparison — Dmart / BigBasket / Amazon
-![Price Comparison](screenshot3.png)
-
-### Live Price Fetched from Dmart
-![Live Scraping](screenshot4.png)
-
----
+![Home Page](images/screenshot1.png)
+![Categories](images/screenshot2.png)
+![Price Comparison](images/screenshot3.png)
+![Live Scraping](images/screenshot4.png)
 
 ## 🔍 Features
 
