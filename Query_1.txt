@@ -1,0 +1,23 @@
+1. Create Database
+
+CREATE DATABASE myshop;
+
+
+2. Use Database
+
+use myshop;
+
+
+3. Create Table
+
+CREATE TABLE products (
+    ProductID int NOT NULL,
+    Product varchar(255) NOT NULL,
+    Category varchar(255),
+    Shop varchar(255),
+    ProductName varchar(255),
+    Price DECIMAL(10, 2) DEFAULT 0,
+    Availability varchar(255),
+    ProductLink varchar(255),
+    PRIMARY KEY (ProductID)
+);
